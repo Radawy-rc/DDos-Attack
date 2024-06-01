@@ -1,6 +1,6 @@
 # DDos-Attack
 Script ddos attack python
-# code
+
 # How to Install And Use
 git clone https://github.com/montader/DDos-Attack.git
 
