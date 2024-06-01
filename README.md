@@ -6,6 +6,8 @@ git clone https://github.com/montader/DDos-Attack.git
 
 cd DDos-Attack
 
+pip install -r requirements.txt
+
 python ddos-attack.py [IP] [port]
 
 example:
