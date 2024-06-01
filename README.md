@@ -12,4 +12,4 @@ example:
 python ddos-attack.py 192.168.1.1 80
 
 for help use:
-python script.py --help
+python ddos-attack.py --help
