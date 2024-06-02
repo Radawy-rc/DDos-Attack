@@ -2,7 +2,7 @@
 Script ddos attack python
 
 # How to Install And Use
-git clone https://github.com/montader/DDos-Attack.git
+git clone https://github.com/Radawy-rc/DDos-Attack.git
 
 cd DDos-Attack
 
