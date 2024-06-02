@@ -11,14 +11,6 @@ from colorama import init, Fore
 # Initialize colorama for colored output
 init()
 
-# Get current date and time
-now = datetime.now()
-hour = now.hour
-minute = now.minute
-day = now.day
-month = now.month
-year = now.year
-
 # Argument parsing
 parser = argparse.ArgumentParser(description="UDP Packet Sender")
 parser.add_argument("ip", type=str, nargs='?', help="Target IP address")
