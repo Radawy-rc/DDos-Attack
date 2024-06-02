@@ -1,5 +1,5 @@
 # DDos-Attack
-Script ddos attack python
+Script ddos attack python by @Ha3MrX But I updated it and made it support a smooth user interface and made it take parameters instead of the usual way of entering text.
 
 # How to Install And Use
 git clone https://github.com/Radawy-rc/DDos-Attack.git
