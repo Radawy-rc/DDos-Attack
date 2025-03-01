@@ -20,8 +20,8 @@ args = parser.parse_args()
 # If arguments are missing, show usage information
 if not args.ip or not args.port:
     print("""
-    كيفية استخدام السكربت:
-    python script.py [عنوان الـ IP] [المنفذ]
+    How to use the script:
+    python script.py [IP] [Port]
     مثال:
     python script.py 192.168.1.1 80
     """)
